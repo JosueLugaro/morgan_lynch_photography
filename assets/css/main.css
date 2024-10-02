@@ -2244,10 +2244,10 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/-891387084656418009_IMG_0790.JPG");
+		background: url("images/overlay.png"), url("../../images/B6620ED7-ACE6-4EAC-9B90-0060AF5795C2.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: center 37%;
 		background-repeat: repeat, no-repeat;
 	}
 
